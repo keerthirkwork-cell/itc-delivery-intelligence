@@ -32,7 +32,7 @@ But nobody connects these signals. Account managers fly blind, using gut feel an
 
 ## 🏗️ System Architecture
 
-![Architecture Diagram](docs/architecture_diagram.png)
+![Architecture Diagram](screenshots/architecture_diagram.png)
 
 ---
 
