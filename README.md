@@ -7,7 +7,7 @@
 
 ## 📊 Dashboard Preview
 
-![Client Health Dashboard](screenshots/01_client_health_dashboard.png)
+![Client Health Dashboard](screenshots/screenshot_01_health_dashboard.png)
 
 ---
 
@@ -50,13 +50,13 @@ But nobody connects these signals. Account managers fly blind, using gut feel an
 
 ## 🚨 SLA Early Warning System
 
-![SLA Breach Warning](screenshots/02_sla_breach_warning.png)
+![SLA Breach Warning](screenshots/screenshot_02_sla_warning.png)
 
 ---
 
 ## 💰 Resource Utilisation & Revenue Leakage
 
-![Resource and Revenue Analysis](screenshots/03_resource_revenue.png)
+![Resource and Revenue Analysis](screenshots/screenshot_03_resource_revenue.png)
 
 ---
 
@@ -64,7 +64,7 @@ But nobody connects these signals. Account managers fly blind, using gut feel an
 
 > *A Watermelon Account looks green on the outside — clean status report, on-time milestones — but is red on the inside: rising SLA breaches, falling CSAT, growing escalations.*
 
-![Watermelon Detector](screenshots/04_watermelon_detector.png)
+![Watermelon Detector](screenshots/screenshot_04_watermelon.png)
 
 ---
 
